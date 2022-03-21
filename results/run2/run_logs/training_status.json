@@ -1,0 +1,65 @@
+{
+    "DeflectBall": {
+        "checkpoints": [
+            {
+                "steps": 3499958,
+                "file_path": "results\\run2\\DeflectBall\\DeflectBall-3499958.onnx",
+                "reward": 6.0,
+                "creation_time": 1637605886.3644938,
+                "auxillary_file_paths": [
+                    "results\\run2\\DeflectBall\\DeflectBall-3499958.pt"
+                ]
+            },
+            {
+                "steps": 3999944,
+                "file_path": "results\\run2\\DeflectBall\\DeflectBall-3999944.onnx",
+                "reward": null,
+                "creation_time": 1637606085.507029,
+                "auxillary_file_paths": [
+                    "results\\run2\\DeflectBall\\DeflectBall-3999944.pt"
+                ]
+            },
+            {
+                "steps": 4499958,
+                "file_path": "results\\run2\\DeflectBall\\DeflectBall-4499958.onnx",
+                "reward": null,
+                "creation_time": 1637606282.2023122,
+                "auxillary_file_paths": [
+                    "results\\run2\\DeflectBall\\DeflectBall-4499958.pt"
+                ]
+            },
+            {
+                "steps": 4999940,
+                "file_path": "results\\run2\\DeflectBall\\DeflectBall-4999940.onnx",
+                "reward": 3.25,
+                "creation_time": 1637606479.5660584,
+                "auxillary_file_paths": [
+                    "results\\run2\\DeflectBall\\DeflectBall-4999940.pt"
+                ]
+            },
+            {
+                "steps": 5000068,
+                "file_path": "results\\run2\\DeflectBall\\DeflectBall-5000068.onnx",
+                "reward": 3.25,
+                "creation_time": 1637606479.5999787,
+                "auxillary_file_paths": [
+                    "results\\run2\\DeflectBall\\DeflectBall-5000068.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000068,
+            "file_path": "results\\run2\\DeflectBall.onnx",
+            "reward": 3.25,
+            "creation_time": 1637606479.5999787,
+            "auxillary_file_paths": [
+                "results\\run2\\DeflectBall\\DeflectBall-5000068.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

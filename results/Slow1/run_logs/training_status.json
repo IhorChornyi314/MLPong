@@ -1,0 +1,65 @@
+{
+    "DeflectBall": {
+        "checkpoints": [
+            {
+                "steps": 3499940,
+                "file_path": "results\\Slow1\\DeflectBall\\DeflectBall-3499940.onnx",
+                "reward": 5.916666666666667,
+                "creation_time": 1637757634.4792604,
+                "auxillary_file_paths": [
+                    "results\\Slow1\\DeflectBall\\DeflectBall-3499940.pt"
+                ]
+            },
+            {
+                "steps": 3999974,
+                "file_path": "results\\Slow1\\DeflectBall\\DeflectBall-3999974.onnx",
+                "reward": 3.5,
+                "creation_time": 1637757811.0177402,
+                "auxillary_file_paths": [
+                    "results\\Slow1\\DeflectBall\\DeflectBall-3999974.pt"
+                ]
+            },
+            {
+                "steps": 4499984,
+                "file_path": "results\\Slow1\\DeflectBall\\DeflectBall-4499984.onnx",
+                "reward": 2.9285714285714284,
+                "creation_time": 1637757986.1247642,
+                "auxillary_file_paths": [
+                    "results\\Slow1\\DeflectBall\\DeflectBall-4499984.pt"
+                ]
+            },
+            {
+                "steps": 4999980,
+                "file_path": "results\\Slow1\\DeflectBall\\DeflectBall-4999980.onnx",
+                "reward": 4.375,
+                "creation_time": 1637758162.5541692,
+                "auxillary_file_paths": [
+                    "results\\Slow1\\DeflectBall\\DeflectBall-4999980.pt"
+                ]
+            },
+            {
+                "steps": 5000556,
+                "file_path": "results\\Slow1\\DeflectBall\\DeflectBall-5000556.onnx",
+                "reward": 4.375,
+                "creation_time": 1637758162.6110005,
+                "auxillary_file_paths": [
+                    "results\\Slow1\\DeflectBall\\DeflectBall-5000556.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000556,
+            "file_path": "results\\Slow1\\DeflectBall.onnx",
+            "reward": 4.375,
+            "creation_time": 1637758162.6110005,
+            "auxillary_file_paths": [
+                "results\\Slow1\\DeflectBall\\DeflectBall-5000556.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

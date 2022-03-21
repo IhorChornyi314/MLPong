@@ -1,0 +1,29 @@
+{
+    "DeflectBall": {
+        "checkpoints": [
+            {
+                "steps": 4868,
+                "file_path": "results\\SACtest\\DeflectBall\\DeflectBall-4868.onnx",
+                "reward": null,
+                "creation_time": 1637611882.0436065,
+                "auxillary_file_paths": [
+                    "results\\SACtest\\DeflectBall\\DeflectBall-4868.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4868,
+            "file_path": "results\\SACtest\\DeflectBall.onnx",
+            "reward": null,
+            "creation_time": 1637611882.0436065,
+            "auxillary_file_paths": [
+                "results\\SACtest\\DeflectBall\\DeflectBall-4868.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

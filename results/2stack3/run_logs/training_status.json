@@ -1,0 +1,29 @@
+{
+    "DeflectBall": {
+        "checkpoints": [
+            {
+                "steps": 82700,
+                "file_path": "results\\2stack3\\DeflectBall\\DeflectBall-82700.onnx",
+                "reward": null,
+                "creation_time": 1637608702.6753676,
+                "auxillary_file_paths": [
+                    "results\\2stack3\\DeflectBall\\DeflectBall-82700.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 82700,
+            "file_path": "results\\2stack3\\DeflectBall.onnx",
+            "reward": null,
+            "creation_time": 1637608702.6753676,
+            "auxillary_file_paths": [
+                "results\\2stack3\\DeflectBall\\DeflectBall-82700.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

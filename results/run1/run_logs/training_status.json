@@ -1,0 +1,38 @@
+{
+    "DeflectBall": {
+        "checkpoints": [
+            {
+                "steps": 499978,
+                "file_path": "results\\run1\\DeflectBall\\DeflectBall-499978.onnx",
+                "reward": -1.5,
+                "creation_time": 1637604336.1392856,
+                "auxillary_file_paths": [
+                    "results\\run1\\DeflectBall\\DeflectBall-499978.pt"
+                ]
+            },
+            {
+                "steps": 500042,
+                "file_path": "results\\run1\\DeflectBall\\DeflectBall-500042.onnx",
+                "reward": -1.5,
+                "creation_time": 1637604336.1692054,
+                "auxillary_file_paths": [
+                    "results\\run1\\DeflectBall\\DeflectBall-500042.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500042,
+            "file_path": "results\\run1\\DeflectBall.onnx",
+            "reward": -1.5,
+            "creation_time": 1637604336.1692054,
+            "auxillary_file_paths": [
+                "results\\run1\\DeflectBall\\DeflectBall-500042.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

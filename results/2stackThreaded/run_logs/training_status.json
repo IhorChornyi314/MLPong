@@ -1,0 +1,65 @@
+{
+    "DeflectBall": {
+        "checkpoints": [
+            {
+                "steps": 3499970,
+                "file_path": "results\\2stackThreaded\\DeflectBall\\DeflectBall-3499970.onnx",
+                "reward": 1.4,
+                "creation_time": 1637610031.5416346,
+                "auxillary_file_paths": [
+                    "results\\2stackThreaded\\DeflectBall\\DeflectBall-3499970.pt"
+                ]
+            },
+            {
+                "steps": 3999954,
+                "file_path": "results\\2stackThreaded\\DeflectBall\\DeflectBall-3999954.onnx",
+                "reward": 1.5,
+                "creation_time": 1637610211.3966362,
+                "auxillary_file_paths": [
+                    "results\\2stackThreaded\\DeflectBall\\DeflectBall-3999954.pt"
+                ]
+            },
+            {
+                "steps": 4499989,
+                "file_path": "results\\2stackThreaded\\DeflectBall\\DeflectBall-4499989.onnx",
+                "reward": 5.647058823529412,
+                "creation_time": 1637610389.504361,
+                "auxillary_file_paths": [
+                    "results\\2stackThreaded\\DeflectBall\\DeflectBall-4499989.pt"
+                ]
+            },
+            {
+                "steps": 4999960,
+                "file_path": "results\\2stackThreaded\\DeflectBall\\DeflectBall-4999960.onnx",
+                "reward": 2.736842105263158,
+                "creation_time": 1637610566.7397187,
+                "auxillary_file_paths": [
+                    "results\\2stackThreaded\\DeflectBall\\DeflectBall-4999960.pt"
+                ]
+            },
+            {
+                "steps": 5000152,
+                "file_path": "results\\2stackThreaded\\DeflectBall\\DeflectBall-5000152.onnx",
+                "reward": 2.736842105263158,
+                "creation_time": 1637610566.7816072,
+                "auxillary_file_paths": [
+                    "results\\2stackThreaded\\DeflectBall\\DeflectBall-5000152.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000152,
+            "file_path": "results\\2stackThreaded\\DeflectBall.onnx",
+            "reward": 2.736842105263158,
+            "creation_time": 1637610566.7816072,
+            "auxillary_file_paths": [
+                "results\\2stackThreaded\\DeflectBall\\DeflectBall-5000152.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
